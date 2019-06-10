@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>environment</name>
-  <version>0.6.3</version>
-  <description>The gazebo_worlds package</description>
+  <name>wro_gazebo</name>
+  <version>1.0</version>
+  <description>The WRO 2019 gazebo ROS package</description>
 
   <maintainer email="ayushgup@iitk.ac.in">Ayush Gupta</maintainer>
   
